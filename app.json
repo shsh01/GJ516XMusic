@@ -1,7 +1,7 @@
 {
     "name": "GJ516 MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/7cfe72770c5dfd983df84.jpg",
+    "logo": "https://te.legra.ph/file/8931ba4cd74cbea9446c1.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -80,7 +80,7 @@
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://te.legra.ph/file/016110e7a77f6427ece2a.jpg",
+        "value": "https://te.legra.ph/file/8931ba4cd74cbea9446c1.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -100,7 +100,7 @@
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/ADVENTURE_FAMILY",
+        "value": "https://t.me/GJ516_DISCUSS_GROUP",
         "required": false
       },
       "SUPPORT_CHANNEL": {
