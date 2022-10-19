@@ -89,7 +89,7 @@ async def helper_cb(client, CallbackQuery, _):
     if cb == "hb9":
         if CallbackQuery.from_user.id not in SUDOERS:
             return await CallbackQuery.answer(
-                "ʜᴀᴀɴ ᴀᴀᴊᴀ ʙsᴅᴋ ʟᴜɴᴅ ʟᴇʟᴇ ᴍᴇʀᴀ.\n\nᴊʜᴀᴀᴛ ʙᴀʀᴀᴀʙᴀʀ ᴅɪᴍᴀᴀɢ ʜᴀɪ ɴᴀʜɪ ᴀᴜʀ ᴏᴡɴᴇʀ ʙᴀɴᴇɴɢᴇ.", show_alert=True
+                "𝗛𝗮𝗶 𝗯𝗲 𝗯𝘀𝗱𝗸 𝗸𝘆𝗮 𝗰𝗵𝗮𝗶𝘆𝗲 𝘀𝘂𝗱𝗼 \n\n𝗸𝗮 𝗺𝗮𝘁𝗮𝗹𝗮𝗯 𝗯𝗵𝗶 𝗽𝘁𝗮 𝗵𝗮𝗶 \n\n𝗿𝗮𝗻𝗱𝗶 𝗸𝗲 𝗻𝗶𝗸𝗮𝗹 𝗰𝗵𝗮𝗹 🖕", show_alert=True
             )
         else:
             await CallbackQuery.edit_message_text(
