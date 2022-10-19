@@ -63,7 +63,7 @@ async def init():
     except:
         pass
     await GJ516.decorators()
-    LOGGER("GJ516X").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @export_gabbar")
+    LOGGER("GJ516X").info("Music Bot Started Successfully, Now Give your girlfriend chumt to @export_gabbar")
     await idle()
 
 
