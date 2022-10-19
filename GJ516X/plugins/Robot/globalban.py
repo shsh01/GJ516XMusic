@@ -67,7 +67,7 @@ async def gbanuser(client, message: Message, _):
         except Exception:
             pass
     await add_banned_user(user_id)
-    await message.reply_sticker("CAACAgEAAx0CZp7eIAACaERjT_QBoeR1rPLBZkQye8GmLmiQJwAC9gEAAgbG6Uebm_Gb1bktCR4E")
+    await message.reply_sticker("CAACAgUAAx0CZp7eIAACaD5jT_BrAvAwadEBDpsd7GVSFeYXPAACdAYAArJscVY0KNBsR3kYDioE")
     await message.reply_text(
         _["gban_6"].format(mention, number_of_chats)
     )
@@ -111,7 +111,7 @@ async def gungabn(client, message: Message, _):
         except Exception:
             pass
     await remove_banned_user(user_id)
-    await message.reply_sticker("CAACAgEAAx0CZp7eIAACaERjT_QBoeR1rPLBZkQye8GmLmiQJwAC9gEAAgbG6Uebm_Gb1bktCR4E")
+    await message.reply_sticker("CAACAgUAAx0CZp7eIAACaD5jT_BrAvAwadEBDpsd7GVSFeYXPAACdAYAArJscVY0KNBsR3kYDioE")
     await message.reply_text(
         _["gban_9"].format(mention, number_of_chats)
     )
