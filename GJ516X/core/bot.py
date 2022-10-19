@@ -36,7 +36,7 @@ class GJ516XBot(Client):
         LOGGER(__name__).info(f"MusicBot Started as {self.name}")
         try:
             await self.send_message(
-                config.LOG_GROUP_ID, f"** {config.MUSIC_BOT_NAME} ʙᴏᴛ sᴛᴀʀᴛᴇᴅ :**\n\n💠 ɪᴅ : `{self.id}`\n💠 ɴᴀᴍᴇ : {self.name}\n💠 ᴜsᴇʀɴᴀᴍᴇ : @{self.username}\n\n||ᴘᴏᴡᴇʀᴇᴅ 🖤 ʙʏ ᴊᴀʏ 🥀||"
+                config.LOG_GROUP_ID, f"** {config.MUSIC_BOT_NAME} ʙᴏᴛ sᴛᴀʀᴛᴇᴅ :**\n\n➻ ɪᴅ : `{self.id}`\n➻ ɴᴀᴍᴇ : {self.name}\n➻ ᴜsᴇʀɴᴀᴍᴇ : @{self.username}\n\n||ᴘᴏᴡᴇʀᴇᴅ 🖤 ʙʏ ᴊᴀʏ 🥀||"
             )
         except:
             LOGGER(__name__).error(
