@@ -46,4 +46,18 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             InlineKeyboardButton(
                 text="ʜᴇʟᴩ", callback_data="settings_back_helper"
             ),
-              
+            InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/export_gabbar"),
+        ],
+        [ 
+            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"{config.SUPPORT_CHANNEL}"),
+            InlineKeyboardButton(text="sᴜᴩᴩᴏʀᴛ", url=f"{config.SUPPORT_GROUP}"),
+        ],
+        [
+            InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url=f"{config.UPSTREAM_REPO}"),
+            InlineKeyboardButton(text="ᴍᴀɪɴᴛᴀɪɴᴇʀ", user_id=OWNER),
+        ],
+     ]
+     return button 
+
+
+
