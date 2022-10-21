@@ -70,7 +70,7 @@
 
  ```console 
 
- $ python3 -m GJ516 
+ $ python3 -m GJ516X
 
  ``` 
  <h3 align="center"> 
