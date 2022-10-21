@@ -14,7 +14,6 @@
 
  </p> 
 
-
   ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/export_gabbar)  
 
   ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
@@ -22,12 +21,12 @@
   ━━━━━━━━━━━━━━━━━━━━ 
 
 <p align="center"> 
- <a href="https://github.com/TheFunkyFox/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/TheFunkyFox/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> 
- <a href="https://github.com/TheFunkyFox/FallenRobot/network/members"> <img src="https://img.shields.io/github/forks/TheFunkyFox/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
- <a href="https://github.com/TheFunkyFox/FallenRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
+ <a href="https://github.com/MrProgrammer72/GJ516XMusic/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516XMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> 
+ <a href="https://github.com/MrProgrammer72/GJ516XMusic/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516XMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/MrProgrammer72/GJ516XMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a> <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a> 
- <a href="https://github.com/TheFunkyFox/FallenRobot"> <img src="https://img.shields.io/github/repo-size/TheFunkyFox/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a> 
- <a href="https://github.com/TheFunkyFox/FallenRobot/commits/TheFunkyFox"> <img src="https://img.shields.io/github/last-commit/TheFunkyFox/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/MrProgrammer72/GJ516XMusic"> <img src="https://img.shields.io/github/repo-size/TheFunkyFox/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a> 
+ <a href="https://github.com/MrProgrammer72/GJ516XMusic/commits/TheFunkyFox"> <img src="https://img.shields.io/github/last-commit/MrProgrammer72/GJ516XMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
 
  </p> 
 
