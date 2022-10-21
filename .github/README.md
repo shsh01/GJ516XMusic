@@ -1,46 +1,21 @@
 ━━━━━━━━━━━━━━━━━━━━ 
 
- **ᴋɪɴɢ ᴀʙɪsʜɴᴏɪ** 
-
-  
-
+ **ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ** 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-  
-
-  
-
- <h2 align="center"> 
-
-     ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」── 
+  <h2 align="center"> 
+ ──「 ✨𝗚𝗝𝟱𝟭𝟲𝗫𝗠𝗨𝗦𝗜𝗖🥀 」── 
 
  </h2> 
 
-  
 
-  
+  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/export_gabbar)  
 
- <h1 align="center"><b> 𝖤𝖷𝖮N   𝖱𝖮𝖡𝖮𝖳  ❗️</b></h1>  
-
-  
-
- ##  𝘊𝘢𝘵𝘤𝘩 𝘔𝘦 𝘐𝘯 [𝘛𝘎🏃‍♀️](https://t.me/AbishnoiMF)  
-
-  
-
- ## 𝖬𝗒 A𝗅𝗅 𝖡𝗈𝗍𝗌  [𝖡𝖮𝖳𝖲](https://t.me/Abishnoi_bots)   
-
-  
-
- ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
-
-  
-
- _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏʙᴏᴛ](https://t.me/AbishnoiMF)**_ 
-
- ━━━━━━━━━━━━━━━━━━━━ 
+  ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
+ 
+  ━━━━━━━━━━━━━━━━━━━━ 
 
  <h3 align="center">  
 
