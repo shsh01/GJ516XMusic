@@ -87,54 +87,34 @@
 
  <h3 align="center"> 
 
-     ─「 sᴜᴩᴩᴏʀᴛ 」─ 
+     ─「 sᴜᴩᴩᴏʀᴛs 」─ 
 
  </h3> 
 
  <p align="center"> 
-
- <a href="https://telegram.me/AbishnoiMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://t.me/GJ516_DISCUSS_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
  </p> 
 
  <p align="center"> 
-
- <a href="https://telegram.me/Abishnoi1M"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://telegram.me/myworldGJ516"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
  </p> 
 
-  
-
- ━━━━━━━━━━━━━━━━━━━━ 
+  ━━━━━━━━━━━━━━━━━━━━ 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
   
-
-  
-
  <h3 align="center"> 
-
      ─「 ᴄʀᴇᴅɪᴛs 」─ 
-
  </h3> 
-
   : ➻ 
 
-  
-
  ➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/KingAbishnoi" alt="KingAbishnoi"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>   
-
-  
-
  ➥ [𝐈ɢɴɪᴛᴇᴛᴇᴄʜ𝐔ᴘᴅᴀᴛᴇs] × <a href="https://t.me/IgniteTechDivision" alt="Ignitetech"> <img src="https://img.shields.io/badge/HW-90302f?logo=github" /></a>   
-
-  
-
-  
-
  ➥ [𝐇ᴡ𝐑ᴇᴘᴏ] × <a href="https://github.com/ArshCypherZ/HWBot" alt="Ignitetech"> <img src="https://img.shields.io/badge/HWREPO-90302f?logo=github" /></a>   
 
  ━━━━━━━━━━━━━━━━━━━━
