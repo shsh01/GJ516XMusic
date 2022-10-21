@@ -21,7 +21,7 @@
   ━━━━━━━━━━━━━━━━━━━━ 
 
 <p align="center"> 
- <a href="https://github.com/MrProgrammer72/GJ516VCBOT/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516VCBOT/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/MrProgrammer72/GJ516XMusic/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516XMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516XMusic/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516XMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
  <a href="https://github.com/MrProgrammer72/GJ516XMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a> 
  </p> 
@@ -110,11 +110,6 @@
   
  <h3 align="center"> 
      ─「 ᴄʀᴇᴅɪᴛs 」─ 
- </h3> 
-  : ➻ 
-
- ➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/KingAbishnoi" alt="KingAbishnoi"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>   
- ➥ [𝐈ɢɴɪᴛᴇᴛᴇᴄʜ𝐔ᴘᴅᴀᴛᴇs] × <a href="https://t.me/IgniteTechDivision" alt="Ignitetech"> <img src="https://img.shields.io/badge/HW-90302f?logo=github" /></a>   
- ➥ [𝐇ᴡ𝐑ᴇᴘᴏ] × <a href="https://github.com/ArshCypherZ/HWBot" alt="Ignitetech"> <img src="https://img.shields.io/badge/HWREPO-90302f?logo=github" /></a>   
-
+ - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516XMusic) </b> 
+ - <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousR1025)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/AnonymousR1025/AnonXmusic) </b>
  ━━━━━━━━━━━━━━━━━━━━
