@@ -21,8 +21,7 @@
   ━━━━━━━━━━━━━━━━━━━━ 
 
 <p align="center"> 
-   
-<a href="https://github.com/MrProgrammer72/GJ516VCBOT/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516VCBOT/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/MrProgrammer72/GJ516VCBOT/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516VCBOT/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
  <a href="https://github.com/MrProgrammer72/GJ516XMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a> 
  <a href="https://github.com/MrProgrammer72/GJ516XMusic"> <img src="https://img.shields.io/github/repo-size/TheFunkyFox/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a> 
