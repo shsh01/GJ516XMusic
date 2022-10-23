@@ -233,8 +233,8 @@ stream_4 : " **📡 sᴛᴀʀᴛᴇᴅ ᴩʟᴀʏɪɴɢ** «\n\n💡 **ᴛɪᴛ�
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : " ᴄʟᴏsᴇ "
-CLOSEMENU_BUTTON  : " ᴄʟᴏsᴇ "
+CLOSE_BUTTON  : " ╚»ᴄʟᴏsᴇ«╝ "
+CLOSEMENU_BUTTON  : " ╚»ᴄʟᴏsᴇ«╝ "
 BACK_BUTTON : "◁"
 UNBAN_BUTTON : "✧ᴜɴʙᴀɴ✧"
 
