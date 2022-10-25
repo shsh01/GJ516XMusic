@@ -28,13 +28,13 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     x, y = str(round(played_sec/total_sec,1)).split(".")
     pos = int(y)
 
-    line = "▱"
+    line = "▱",
            "▰"
     circle = "◉"
 
     bar = line*(pos-1)
     bar += circle
-    bar += line*(5-len(bar))
+    bar += line*(10-len(bar))
 
     buttons = [
         [
