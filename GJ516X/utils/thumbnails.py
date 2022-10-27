@@ -84,22 +84,7 @@ async def gen_thumb(videoid):
             background = enhancer.enhance(0.6)
             image2 = background
                                                                                             
-            circle = Image.open("assets/circle.png")
-
-            # changing circle color
-            im = circle
-            im = im.convert('RGBA')
-            color = make_col()
-
-            data = np.array(im)
-            red, green, blue, alpha = data.T
-
-            white_areas = (red == 255) & (blue == 255) & (green == 255)
-            data[..., :-1][white_areas.T] = color
-
-            im2 = Image.fromarray(data)
-            circle = im2
-            # done
+            circle = Image.open("assets/circle.png")L
 
             image3 = image1.crop((280,0,1000,720))
             lum_img = Image.new('L', [720,720] , 0)
