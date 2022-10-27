@@ -84,7 +84,7 @@ async def gen_thumb(videoid):
             background = enhancer.enhance(0.6)
             image2 = background
                                                                                             
-            circle = Image.open("assets/circle.png")L
+            circle = Image.open("assets/circle.png")
 
             image3 = image1.crop((280,0,1000,720))
             lum_img = Image.new('L', [720,720] , 0)
